@@ -20,7 +20,6 @@
                       })
                 .selector('edge')
                 .css({
-                        'width' : '4',
                         'target-arrow-shape': 'triangle',
                         'curve-style': 'bezier',
                         'width' : 'mapData(strength, 0.5, 1, 0, 5)'
@@ -192,92 +191,11 @@
         "edges": [
             {
                 "data": {
-                    "id": "ME2-(NA)-ME6",
-                    "source": "ME2",
-                    "target": "ME6",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME3-(NA)-ME5",
-                    "source": "ME3",
-                    "target": "ME5",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME3-(NA)-ME2",
-                    "source": "ME3",
-                    "target": "ME2",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME3-(NA)-ME1",
-                    "source": "ME3",
-                    "target": "ME1",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME4-(NA)-ME5",
-                    "source": "ME4",
-                    "target": "ME5",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME4-(NA)-ME16",
-                    "source": "ME4",
-                    "target": "ME16",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME4-(NA)-ME10",
-                    "source": "ME4",
+                    "id": "ME1-(NA)-ME10",
+                    "source": "ME1",
                     "target": "ME10",
                     "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME11-(NA)-ME1",
-                    "source": "ME11",
-                    "target": "ME1",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME11-(NA)-ME9",
-                    "source": "ME11",
-                    "target": "ME9",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME16-(NA)-ME12",
-                    "source": "ME16",
-                    "target": "ME12",
-                    "interaction": null,
-                    "strength": 1
+                    "strength": 0.54
                 }
             },
             {
@@ -286,25 +204,7 @@
                     "source": "ME1",
                     "target": "ME5",
                     "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME1-(NA)-ME2",
-                    "source": "ME1",
-                    "target": "ME2",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME1-(NA)-ME9",
-                    "source": "ME1",
-                    "target": "ME9",
-                    "interaction": null,
-                    "strength": 1
+                    "strength": 0.95
                 }
             },
             {
@@ -313,124 +213,16 @@
                     "source": "ME1",
                     "target": "ME8",
                     "interaction": null,
-                    "strength": 1
+                    "strength": 0.71
                 }
             },
             {
                 "data": {
-                    "id": "ME15-(NA)-ME5",
-                    "source": "ME15",
-                    "target": "ME5",
+                    "id": "ME1-(NA)-ME9",
+                    "source": "ME1",
+                    "target": "ME9",
                     "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME15-(NA)-ME2",
-                    "source": "ME15",
-                    "target": "ME2",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME15-(NA)-ME10",
-                    "source": "ME15",
-                    "target": "ME10",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME13-(NA)-ME2",
-                    "source": "ME13",
-                    "target": "ME2",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME13-(NA)-ME6",
-                    "source": "ME13",
-                    "target": "ME6",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME13-(NA)-ME3",
-                    "source": "ME13",
-                    "target": "ME3",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME13-(NA)-ME14",
-                    "source": "ME13",
-                    "target": "ME14",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME13-(NA)-ME8",
-                    "source": "ME13",
-                    "target": "ME8",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME13-(NA)-ME7",
-                    "source": "ME13",
-                    "target": "ME7",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME14-(NA)-ME8",
-                    "source": "ME14",
-                    "target": "ME8",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME7-(NA)-ME2",
-                    "source": "ME7",
-                    "target": "ME2",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME7-(NA)-ME8",
-                    "source": "ME7",
-                    "target": "ME8",
-                    "interaction": null,
-                    "strength": 1
-                }
-            },
-            {
-                "data": {
-                    "id": "ME7-(NA)-ME10",
-                    "source": "ME7",
-                    "target": "ME10",
-                    "interaction": null,
-                    "strength": 1
+                    "strength": 0.535
                 }
             },
             {
@@ -439,29 +231,234 @@
                     "source": "ME10",
                     "target": "ME5",
                     "interaction": null,
+                    "strength": 0.755
+                }
+            },
+            {
+                "data": {
+                    "id": "ME11-(NA)-ME1",
+                    "source": "ME11",
+                    "target": "ME1",
+                    "interaction": null,
+                    "strength": 0.7
+                }
+            },
+            {
+                "data": {
+                    "id": "ME11-(NA)-ME9",
+                    "source": "ME11",
+                    "target": "ME9",
+                    "interaction": null,
+                    "strength": 0.61
+                }
+            },
+            {
+                "data": {
+                    "id": "ME12-(NA)-ME16",
+                    "source": "ME12",
+                    "target": "ME16",
+                    "interaction": null,
+                    "strength": 0.985
+                }
+            },
+            {
+                "data": {
+                    "id": "ME13-(NA)-ME14",
+                    "source": "ME13",
+                    "target": "ME14",
+                    "interaction": null,
+                    "strength": 0.98
+                }
+            },
+            {
+                "data": {
+                    "id": "ME13-(NA)-ME7",
+                    "source": "ME13",
+                    "target": "ME7",
+                    "interaction": null,
+                    "strength": 0.95
+                }
+            },
+            {
+                "data": {
+                    "id": "ME13-(NA)-ME8",
+                    "source": "ME13",
+                    "target": "ME8",
+                    "interaction": null,
+                    "strength": 0.52
+                }
+            },
+            {
+                "data": {
+                    "id": "ME14-(NA)-ME8",
+                    "source": "ME14",
+                    "target": "ME8",
+                    "interaction": null,
+                    "strength": 0.745
+                }
+            },
+            {
+                "data": {
+                    "id": "ME15-(NA)-ME10",
+                    "source": "ME15",
+                    "target": "ME10",
+                    "interaction": null,
+                    "strength": 0.585
+                }
+            },
+            {
+                "data": {
+                    "id": "ME15-(NA)-ME5",
+                    "source": "ME15",
+                    "target": "ME5",
+                    "interaction": null,
+                    "strength": 0.69
+                }
+            },
+            {
+                "data": {
+                    "id": "ME2-(NA)-ME1",
+                    "source": "ME2",
+                    "target": "ME1",
+                    "interaction": null,
                     "strength": 1
                 }
             },
             {
                 "data": {
-                    "id": "ME10-(NA)-ME1",
-                    "source": "ME10",
+                    "id": "ME2-(NA)-ME13",
+                    "source": "ME2",
+                    "target": "ME13",
+                    "interaction": null,
+                    "strength": 0.695
+                }
+            },
+            {
+                "data": {
+                    "id": "ME2-(NA)-ME15",
+                    "source": "ME2",
+                    "target": "ME15",
+                    "interaction": null,
+                    "strength": 0.54
+                }
+            },
+            {
+                "data": {
+                    "id": "ME2-(NA)-ME6",
+                    "source": "ME2",
+                    "target": "ME6",
+                    "interaction": null,
+                    "strength": 0.74
+                }
+            },
+            {
+                "data": {
+                    "id": "ME2-(NA)-ME7",
+                    "source": "ME2",
+                    "target": "ME7",
+                    "interaction": null,
+                    "strength": 0.86
+                }
+            },
+            {
+                "data": {
+                    "id": "ME3-(NA)-ME1",
+                    "source": "ME3",
                     "target": "ME1",
                     "interaction": null,
-                    "strength": 1
+                    "strength": 0.82
+                }
+            },
+            {
+                "data": {
+                    "id": "ME3-(NA)-ME13",
+                    "source": "ME3",
+                    "target": "ME13",
+                    "interaction": null,
+                    "strength": 0.82
+                }
+            },
+            {
+                "data": {
+                    "id": "ME3-(NA)-ME5",
+                    "source": "ME3",
+                    "target": "ME5",
+                    "interaction": null,
+                    "strength": 0.565
+                }
+            },
+            {
+                "data": {
+                    "id": "ME3-(NA)-ME9",
+                    "source": "ME3",
+                    "target": "ME9",
+                    "interaction": null,
+                    "strength": 0.685
+                }
+            },
+            {
+                "data": {
+                    "id": "ME4-(NA)-ME10",
+                    "source": "ME4",
+                    "target": "ME10",
+                    "interaction": null,
+                    "strength": 0.925
+                }
+            },
+            {
+                "data": {
+                    "id": "ME4-(NA)-ME16",
+                    "source": "ME4",
+                    "target": "ME16",
+                    "interaction": null,
+                    "strength": 0.675
+                }
+            },
+            {
+                "data": {
+                    "id": "ME4-(NA)-ME5",
+                    "source": "ME4",
+                    "target": "ME5",
+                    "interaction": null,
+                    "strength": 0.705
+                }
+            },
+            {
+                "data": {
+                    "id": "ME6-(NA)-ME13",
+                    "source": "ME6",
+                    "target": "ME13",
+                    "interaction": null,
+                    "strength": 0.675
+                }
+            },
+            {
+                "data": {
+                    "id": "ME7-(NA)-ME10",
+                    "source": "ME7",
+                    "target": "ME10",
+                    "interaction": null,
+                    "strength": 0.515
+                }
+            },
+            {
+                "data": {
+                    "id": "ME9-(NA)-ME8",
+                    "source": "ME9",
+                    "target": "ME8",
+                    "interaction": null,
+                    "strength": 0.51
                 }
             }
         ]
     },
             layout:{
                   name: 'cola',
-                  padding: 0.4,
-                  animate: false,
-                  
+                  padding: 0.5,
+                  randomize: true,
                   avoidOverlap: true, 
-                  nodeSpacing: function( node ){ return 2; },
-                  nodeDimensionsIncludeLabels: true,
-                  randomize: true
+                  nodeSpacing: function( node ){ return 0.1; },
+                  nodeDimensionsIncludeLabels: true
               }
             });
         
